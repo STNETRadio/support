@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome to STNET Radio Support](README.md)
+* [DO YOU NEED HELP?](README.md)
+* [👋 Welcome to STNET Radio Support](1.md)
 
 ## Overview
 
@@ -26,4 +27,3 @@
 ***
 
 * [STNET Radio Support](https://stnetradio.online/support)
-* [DO YOU NEED HELP?](do-you-need-help.md)
