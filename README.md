@@ -18,7 +18,7 @@ layout:
 
 
 {% hint style="danger" %}
-THIS WEBSITE IS NOT COMPLETE. CURRENTLY ONLY SUPPORTS EMAIL AND X.COM ONLY.
+THIS WEBSITE IS NOT COMPLETE. CURRENTLY ONLY SUPPORTS EMAIL AND [X.COM](x.com) ONLY.
 {% endhint %}
 
 ***
@@ -27,11 +27,12 @@ THIS WEBSITE IS NOT COMPLETE. CURRENTLY ONLY SUPPORTS EMAIL AND X.COM ONLY.
 
 1.  &#x20;Team STNET Radio
 
-    1. Email: support@stnetradio.online
-    2. X (Formerly Twitter): @TeamSTNETRadio&#x20;
+    1. Email: [support@stnetradio.online](mailto:support@stnetradio.online)
+    2. X (Formerly Twitter): [@TeamSTNETRadio](https://x.com/teamstnetradio)
 
 
-2. STNET Radio HR Team: hr@stnetradio.co
+2. STNET Radio HR Team: [hr@stnetradio.co](mailto:hr@stnetradio.co)
 3. STNET Radio Podcast
-   1. TMSA (เล่าเรื่องเก่ง): tmsa@stnetradio.online
-   2. Tidkab (ติดกับเรื่องราว): tidkab@stnetradio.online
+   1. TMSA (เล่าเรื่องเก่ง): [tmsa@stnetradio.online](mailto:tmsa@stnetradio.online)
+   2. Tidkab (ติดกับเรื่องราว): [tidkab@stnetradio.online](mailto;tidkab@stnetradio.online)
+
