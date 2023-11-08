@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# How to use STNET Radio Shortener
+# Use STNET Radio Link Shortener
 
 For shortening our links, it's easy.
 
@@ -32,9 +32,9 @@ For shortening our links, it's easy.
 4. Select GoShort.
 5. Share the link to the shortener directly using `l.stnetradio.co` or `go.stnetradio.co` or `to.stnetradio.co`
 
-{% style hint = "danger" %}
-Use of other subdomains, please use according to the employee manual.
-{% final advice %}
+{% hint style="danger" %}
+To use other subdomains, please use according to the employee manual.
+{% endhint %}
 
 ***
 
