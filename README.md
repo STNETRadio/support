@@ -34,4 +34,4 @@ THIS WEBSITE IS NOT COMPLETE. CURRENTLY ONLY SUPPORTS EMAIL AND [X.COM](x.com) O
 2. STNET Radio HR Team: [hr@stnetradio.co](mailto:hr@stnetradio.co)
 3. STNET Radio Podcast
    1. TMSA (เล่าเรื่องเก่ง): [tmsa@stnetradio.online](mailto:tmsa@stnetradio.online)
-   2. Tidkab (ติดกับเรื่องราว): [tidkab@stnetradio.online](mailto;tidkab@stnetradio.online)
+   2. Tidkab (ติดกับเรื่องราว): [tidkab@stnetradio.online](mailto:tidkab@stnetradio.online)
