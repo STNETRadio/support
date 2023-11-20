@@ -10,9 +10,9 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
-  outline:
     visible: false
+  outline:
+    visible: true
   pagination:
     visible: false
 ---
