@@ -3,7 +3,7 @@
 * [DO YOU NEED HELP?](README.md)
 * [Use STNET Radio Link Shortener](UseShortener.md)
 
-## Group 1
+## Privacy Policy and Terms of Service <a href="#ppnts" id="ppnts"></a>
 
-* [Privacy Policy](group-1/privacy-policy.md)
-* [Terms of Service](group-1/terms-of-service.md)
+* [Privacy Policy](ppnts/privacy-policy.md)
+* [Terms of Service](ppnts/terms-of-service.md)
