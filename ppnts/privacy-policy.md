@@ -19,8 +19,6 @@ layout:
 
 # Privacy Policy
 
-Privacy Policy
-
 Last Updated: [November 20, 2023]
 
 STNET Radio ("we," "us," or "our") is committed to protecting the privacy and security of your personal information. This Privacy Policy outlines the types of information we collect, how we use and protect that information, and your choices regarding your personal data.
@@ -70,4 +68,4 @@ By using our services or providing us with your information, you agree to the te
 
 [November 20, 2023]
 
-STNET Radio
+**STNET Radio**
