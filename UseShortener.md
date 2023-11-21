@@ -20,8 +20,6 @@ layout:
 
 # Use STNET Radio Link Shortener
 
-For shortening our links, it's easy.
-
 ***
 
 ## For employees of STNET Radio
