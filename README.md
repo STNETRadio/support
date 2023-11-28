@@ -18,26 +18,26 @@ layout:
     visible: false
 ---
 
-# Help Center
+# STNET Radio Help Center
 
-Welcome to STNET Radio's help center! We're here to answer your questions. 
+Welcome to STNET Radio's help center! We're dedicated to addressing your inquiries and providing assistance.
 
-Can't find what you're looking for? Send our support team at [support@stnetradio.co](mailto:support@stnetradio.co) or [Team STNET Radio on Twitter](https://twitter.com/teamstnetradio)!
-
----
-
-# How to Listen STNET Radio
-
-How to Listen STNET Radio on Podcasts Services that our support.
+If you can't find the information you need, please reach out to our support team at [support@stnetradio.co](mailto:support@stnetradio.co) or contact [Team STNET Radio on Twitter](https://twitter.com/teamstnetradio)!
 
 ---
 
-### Podcasts Services
+# How to Listen to STNET Radio
 
-[Apple Podcast](https://www.notion.so/Apple-Podcast-d593fd3615ce4b4a9c70cd46699ff5bd?pvs=21)
+Learn how to access STNET Radio on various podcast services through our support.
 
-[Google Podcast](https://www.notion.so/Google-Podcast-9b239db565414ec1ac8854dd1a4ced1d?pvs=21)
+---
 
-[Spotify](https://www.notion.so/Spotify-95277c402a3d4c5f9b1b58f635576c65?pvs=21)
+### Podcast Services
 
-Other Services will update soon...
+- [Apple Podcast](https://www.notion.so/Apple-Podcast-d593fd3615ce4b4a9c70cd46699ff5bd?pvs=21)
+
+- [Google Podcast](https://www.notion.so/Google-Podcast-9b239db565414ec1ac8854dd1a4ced1d?pvs=21)
+
+- [Spotify](https://www.notion.so/Spotify-95277c402a3d4c5f9b1b58f635576c65?pvs=21)
+
+More services will be added soon. Stay tuned for updates!
