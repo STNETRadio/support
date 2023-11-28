@@ -29,9 +29,11 @@ layout:
 6. Your Twitter account basics
 
 ### Sign up STNET Radio Plus+
+
 {% hint style="danger" %}
 On September 20, 2023, STNET Radio announced that it will be closing the trial of its STNET Radio Plus+ service in Thailand on October 1, 2023 at 0:01 AM (Thailand local time). This decision was made after careful consideration and is based on the feedback received from users during the trial period.
 {% endhint %}
+
 1. Visit our [Plus+ website](https://stnetradio.co/plus "Sign up STNET Radio Plus+").
 2. Select **START PLUS+**
 3. Fill in your personal information and credit and debit card information.
