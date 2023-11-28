@@ -21,40 +21,43 @@ layout:
     visible: false
 ---
 
-# Sign up for STNET Radio Plus+
+# STNET Radio Plus+ Sign-Up Instructions
 
-***
+---
 
-### Please complete the following documents or information:
+## Sign-Up Requirements:
 
-1. First and last name (your first and last name entered in the previous payment system)
-2. Date of birth
-3. Mobile phone number (If you enter a foreign number that is not a number within Thailand Click here to cancel the service.)
-4. Email address
-5. Last 3 digits of debit or credit card
-6. Your Twitter account basics
+To register for STNET Radio Plus+, kindly provide the following details:
 
-### Sign up STNET Radio Plus+
+1. **Full Name** (Ensure it matches the information in the previous payment system)
+2. **Date of Birth**
+3. **Mobile Phone Number** (If using a foreign number, not within Thailand, please [click here](https://stnetradio.co/cancel) to cancel the service.)
+4. **Email Address**
+5. **Last 3 Digits of Debit or Credit Card**
+6. **Your X Account Basics**
+
+## How to Sign Up for STNET Radio Plus+
 
 {% hint style="danger" %}
-On September 20, 2023, STNET Radio announced that it will be closing the trial of its STNET Radio Plus+ service in Thailand on October 1, 2023 at 0:01 AM (Thailand local time). This decision was made after careful consideration and is based on the feedback received from users during the trial period.
+On September 20, 2023, STNET Radio announced the closure of the trial for its STNET Radio Plus+ service in Thailand, effective October 1, 2023, at 0:01 AM (Thailand local time). This decision follows careful consideration and is based on user feedback during the trial period.
 {% endhint %}
 
 1. Visit our [Plus+ website](https://stnetradio.co/plus).
-2. Select **START PLUS+**
-3. Fill in your personal information and credit and debit card information.
-4. Then select \*Start trial.
-5. After you choose a trial, the website will take you to fill in your information on Google Form.
-6. Select I agree for the disclosure of personal information to access your information confirmation.
-7. Select Next and fill in your information.
-8. Complete the confirmation Wait for us to contact you via email or Direct Message or SMS message either \*\*within 72 hours
+2. Click on **START PLUS+**.
+3. Complete your personal information and credit/debit card details.
+4. Select **Start Trial**.
+5. After choosing a trial, the website will redirect you to fill in information on Google Form.
+6. Agree to the disclosure of personal information to confirm access to your details.
+7. Click **Next** and complete the required information.
+8. Wait for our contact via email, Direct Message, or SMS within 72 hours for confirmation.
 
-\*For ther first time, you will get a 7-days trial. \*\*If you do not know invoice number, it will take up to 14 days longer than usual.
+- For the first time, enjoy a 7-day trial.
+- If you don't know the invoice number, it may take up to 14 days longer than usual.
 
-***
+---
 
-## About STNET Radio Plus+
+## About STNET Radio Plus+:
 
-STNET Radio Plus+ is a new service from STNET Radio that will help you and the creators get closer together. You will receive special privileges such as talking to our creators closely and privately, watching special videos, special gifts from creators, etc. STNET Radio Plus+ is open for trial in some countries. To improve our service and will be open for general by 2025
+STNET Radio Plus+ is a novel service bringing you closer to creators. Enjoy special privileges like direct communication with creators, exclusive videos, and unique gifts. Currently in trial in Thailand, the service aims to open globally by 2025.
 
-Our service is now open for trial in Thailand. If you want to contact us when there is a problem, contact [plus@stnetradio.co](mailto:plus@stnetradio.co) 24/7.
+For assistance or queries, reach us at [plus@stnetradio.co](mailto:plus@stnetradio.co) 24/7.
