@@ -1,5 +1,5 @@
 ---
-description: We appreciate your understanding and cooperation throughout this refund process. If you encounter any challenges or have inquiries, please do not hesitate to contact our customer support team. Thank you for being a valued part of STNET Radio Plus+.
+description: We appreciate your understanding and cooperation throughout this refund process. If you encounter any challenges or have inquiries, please do not hesitate to contact our customer support team.
 cover: ../.gitbook/assets/banner.png
 coverY: 0
 layout:
