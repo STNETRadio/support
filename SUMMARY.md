@@ -1,9 +1,8 @@
 # Table of contents
 
 * [DO YOU NEED HELP?](README.md)
-* [Use STNET Radio Link Shortener](UseShortener.md)
 
-## Privacy Policy and Terms of Service <a href="#ppnts" id="ppnts"></a>
+## Start with Plus+ <a href="#plus" id="plus"></a>
 
-* [Privacy Policy](ppnts/privacy-policy.md)
-* [Terms of Service](ppnts/terms-of-service.md)
+* [Sign up for STNET Radio Plus+](/plus/signup.md)
+* [How to unsubscribe from Plus+](/plus/unsubscribe.md)

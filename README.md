@@ -1,6 +1,6 @@
 ---
 description: Hello! This is Team STNET Radio.
-cover: .gitbook/assets/DC8E7ED7-6422-42FC-BAF3-FDC47BE05713.png
+cover: .gitbook/assets/banner.png
 coverY: 0
 layout:
   cover:
@@ -11,27 +11,33 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: true
   pagination:
     visible: false
 ---
 
-# DO YOU NEED HELP?
+# Help Center
 
-{% hint style="danger" %}
-THIS WEBSITE IS NOT COMPLETE. CURRENTLY ONLY SUPPORTS EMAIL AND [X.COM](x.com) ONLY.
-{% endhint %}
+Welcome to STNET Radio's help center! We're here to answer your questions. 
 
-***
+Can't find what you're looking for? Send our support team at [support@stnetradio.co](mailto:support@stnetradio.co) or [Team STNET Radio on Twitter](https://twitter.com/teamstnetradio)!
 
-### If you to ask or help please contact:
+---
 
-1. Team STNET Radio
-   1. Email: [support@stnetradio.online](mailto:support@stnetradio.online)
-   2. X (Formerly Twitter): [@TeamSTNETRadio](https://x.com/teamstnetradio)
-2. STNET Radio HR Team: [hr@stnetradio.co](mailto:hr@stnetradio.co)
-3. STNET Radio Podcast
-   1. TMSA (เล่าเรื่องเก่ง): [tmsa@stnetradio.online](mailto:tmsa@stnetradio.online)
-   2. Tidkab (ติดกับเรื่องราว): [tidkab@stnetradio.online](mailto:tidkab@stnetradio.online)
+# How to Listen STNET Radio
+
+How to Listen STNET Radio on Podcasts Services that our support.
+
+---
+
+### Podcasts Services
+
+[Apple Podcast](https://www.notion.so/Apple-Podcast-d593fd3615ce4b4a9c70cd46699ff5bd?pvs=21)
+
+[Google Podcast](https://www.notion.so/Google-Podcast-9b239db565414ec1ac8854dd1a4ced1d?pvs=21)
+
+[Spotify](https://www.notion.so/Spotify-95277c402a3d4c5f9b1b58f635576c65?pvs=21)
+
+Other Services will update soon...
