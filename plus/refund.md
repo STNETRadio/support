@@ -30,7 +30,7 @@ To conveniently check your refund status, please visit [th.stnetradio.co/refund]
 
 ## How to Request a Refund
 
-1. **Log In:** Access our account management system at [accounts.stnetradio.co](https://accounts.stnetradio.co/).
+1. **Log In:** Access our account management system at [accounts.stnetradio.co](https://accounts.stnetradio.co/p/login/fZebKe83RcyF3de7ss).
    
 2. **Email Verification:** Provide your email and enter the verification code sent to your email.
 
