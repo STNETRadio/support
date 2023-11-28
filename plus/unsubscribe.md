@@ -21,50 +21,49 @@ layout:
     visible: false
 ---
 
-# How to unsubscribe from Plus+
+# Unsubscribing from STNET Radio Plus+
 
-## How to unsubscribe from STNET Radio Plus+
+---
 
-***
+## Unsubscribe Process for STNET Radio Plus+
 
-### Please complete the following documents or information:
+### Required Information:
 
-1. First and last name (your first and last name entered in the previous payment system)
-2. Date of birth
-3. Mobile phone number
-4. Email address
-5. Last 3 digits of debit or credit card
+To proceed with unsubscribing from STNET Radio Plus+, please provide the following details:
 
-### How to unsubscribe from STNET Radio Plus+
+1. **First and Last Name** (As entered in the previous payment system)
+2. **Date of Birth**
+3. **Mobile Phone Number**
+4. **Email Address**
+5. **Last 3 Digits of Debit or Credit Card**
 
-You can follow the steps specified on this website because the form is not translated into English. (This service is not unavailable in other country)
+## How to Unsubscribe from STNET Radio Plus+:
 
-***
+Follow the steps outlined on the [dedicated cancellation website](https://docs.google.com/forms/d/e/1FAIpQLScwDYYwqubn561i_UNeLMvjACMHA1FFltZIM9kXe_Ri8aJtfA/viewform?usp=sf_link). Please note that the form is currently available only in Thai, and this service is not accessible in other countries.
 
-Visit the website to fill out the service cancellation form [here](https://docs.google.com/forms/d/e/1FAIpQLScwDYYwqubn561i\_UNeLMvjACMHA1FFltZIM9kXe\_Ri8aJtfA/viewform?usp=sf\_link).
+---
+
+### [Cancellation Form](https://docs.google.com/forms/d/e/1FAIpQLScwDYYwqubn561i_UNeLMvjACMHA1FFltZIM9kXe_Ri8aJtfA/viewform?usp=sf_link)
 
 #### Section 1
 
-1.  Choose your first name prefix
-
-    **Note:** You can choose your name prefix as follows: Mr. (นาย), Mrs(นาง), Ms(นางสาว).
-2. Enter your first and last name (you can fill it in English).
-3. After that, enter the date of birth, email and \* phone number respectively.
-4. Once completed, select Next(ถัดไป).
+1. **Choose Your First Name Prefix:**
+   - Note: Options include Mr. (นาย), Mrs (นาง), Ms (นางสาว).
+2. **Enter Your First and Last Name:** (You can fill it in English.)
+3. **Enter Date of Birth, Email, and Phone Number:** (Supports Thailand and international numbers.)
+4. Once completed, select **Next (ถัดไป).**
 
 #### Section 2
 
-1. Enter the last 3 digit credit/debit card digits.
-2. When finished filling out, select Submit (ส่ง).
+1. **Enter the Last 3 Digits of Credit/Debit Card:**
+2. When finished, select **Submit (ส่ง).**
 
-Once the form is submit, we will contact you within 24 hours via email or Twitter’s Direct Message.
+Upon form submission, we will contact you within 24 hours via email or X (Formly Twitter)’s Direct Message.
 
-\*Supports Thailand and international numbers.
-
-***
+---
 
 ## About STNET Radio Plus+
 
-**STNET Radio Plus+** is a new service from STNET Radio that will help you and the creators get closer together. You will receive special privileges such as talking to our creators closely and privately, watching special videos, special gifts from creators, etc. STNET Radio Plus+ is open for trial in some countries. To improve our service and will be open for general by 2025
+**STNET Radio Plus+** is a groundbreaking service from STNET Radio, designed to bring you closer to creators. Enjoy special privileges such as private conversations with creators, exclusive videos, and special gifts. Currently in trial in Thailand, the service aims to be globally accessible by 2025.
 
-Our service is now open for trial in Thailand. If you want to contact us when there is a problem, contact [ST.NETSupport@gmail.com](mailto:st.netsupport@gmail.com) 24/7.
+For any concerns or assistance, reach out to us at [plus@stnetradio.co](mailto:plus@stnetradio.co) 24/7.
