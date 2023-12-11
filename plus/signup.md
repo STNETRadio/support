@@ -3,27 +3,11 @@ description: >-
   STNET Radio Plus+ is a premium subscription service that offers a number of
   additional features, such as ad-free listening, high-quality audio, and access
   to exclusive content.
-cover: ../.gitbook/assets/banner.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
-# STNET Radio Plus+ Sign-Up Instructions
+# 🛒 Sign up for STNET Radio Plus+
 
----
+***
 
 ## Sign-Up Requirements:
 
@@ -51,10 +35,10 @@ On September 20, 2023, STNET Radio announced the closure of the trial for its ST
 7. Click **Next** and complete the required information.
 8. Wait for our contact via email, Direct Message, or SMS within 72 hours for confirmation.
 
-- For the first time, enjoy a 7-day trial.
-- If you don't know the invoice number, it may take up to 14 days longer than usual.
+* For the first time, enjoy a 7-day trial.
+* If you don't know the invoice number, it may take up to 14 days longer than usual.
 
----
+***
 
 ## About STNET Radio Plus+:
 

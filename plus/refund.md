@@ -1,24 +1,11 @@
 ---
-description: We appreciate your understanding and cooperation throughout this refund process. If you encounter any challenges or have inquiries, please do not hesitate to contact our customer support team.
-cover: ../.gitbook/assets/banner.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
+description: >-
+  We appreciate your understanding and cooperation throughout this refund
+  process. If you encounter any challenges or have inquiries, please do not
+  hesitate to contact our customer support team.
 ---
 
-# STNET Radio Plus+ Subscription Refund Request in Thailand
+# ✨ STNET Radio Plus+ Subscription Refund Request in Thailand
 
 ## Refund Request for Plus+ Subscription
 
@@ -31,19 +18,14 @@ To conveniently check your refund status, please visit [th.stnetradio.co/refund]
 ## How to Request a Refund
 
 1. **Log In:** Access our account management system at [accounts.stnetradio.co](https://accounts.stnetradio.co/p/login/fZebKe83RcyF3de7ss).
-   
 2. **Email Verification:** Provide your email and enter the verification code sent to your email.
-
 3. **Cancellation Process:**
-   - Upon successful login, choose "Cancel Plan."
-   - Specify the cancellation conditions, which include:
-     - Cancellation of subscription form.
-     - Temporary subscription cancellation for up to 12 months.
-
+   * Upon successful login, choose "Cancel Plan."
+   * Specify the cancellation conditions, which include:
+     * Cancellation of subscription form.
+     * Temporary subscription cancellation for up to 12 months.
 4. **Confirmation:** Confirm the cancellation by selecting "Cancel Plan."
-
 5. **Reason for Cancellation:** Optionally, provide the reason for cancellation.
-
 6. **Refund Processing:** If a refund is not received within 1-31 days, please contact your bank or service provider.
 
 We appreciate your understanding and cooperation during this process. If you have any inquiries, feel free to reach out to our customer support team.

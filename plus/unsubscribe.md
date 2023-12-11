@@ -3,27 +3,11 @@ description: >-
   STNET Radio Plus+ is a premium subscription service that offers a number of
   additional features, such as ad-free listening, high-quality audio, and access
   to exclusive content.
-cover: ../.gitbook/assets/banner.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
-# Unsubscribing from STNET Radio Plus+
+# 🖐 How to unsubscribe from Plus+
 
----
+***
 
 ## Unsubscribe Process for STNET Radio Plus+
 
@@ -39,16 +23,16 @@ To proceed with unsubscribing from STNET Radio Plus+, please provide the followi
 
 ## How to Unsubscribe from STNET Radio Plus+:
 
-Follow the steps outlined on the [dedicated cancellation website](https://docs.google.com/forms/d/e/1FAIpQLScwDYYwqubn561i_UNeLMvjACMHA1FFltZIM9kXe_Ri8aJtfA/viewform?usp=sf_link). Please note that the form is currently available only in Thai, and this service is not accessible in other countries.
+Follow the steps outlined on the [dedicated cancellation website](https://docs.google.com/forms/d/e/1FAIpQLScwDYYwqubn561i\_UNeLMvjACMHA1FFltZIM9kXe\_Ri8aJtfA/viewform?usp=sf\_link). Please note that the form is currently available only in Thai, and this service is not accessible in other countries.
 
----
+***
 
-### [Cancellation Form](https://docs.google.com/forms/d/e/1FAIpQLScwDYYwqubn561i_UNeLMvjACMHA1FFltZIM9kXe_Ri8aJtfA/viewform?usp=sf_link)
+### [Cancellation Form](https://docs.google.com/forms/d/e/1FAIpQLScwDYYwqubn561i\_UNeLMvjACMHA1FFltZIM9kXe\_Ri8aJtfA/viewform?usp=sf\_link)
 
 #### Section 1
 
 1. **Choose Your First Name Prefix:**
-   - Note: Options include Mr. (นาย), Mrs (นาง), Ms (นางสาว).
+   * Note: Options include Mr. (นาย), Mrs (นาง), Ms (นางสาว).
 2. **Enter Your First and Last Name:** (You can fill it in English.)
 3. **Enter Date of Birth, Email, and Phone Number:** (Supports Thailand and international numbers.)
 4. Once completed, select **Next (ถัดไป).**
@@ -60,7 +44,7 @@ Follow the steps outlined on the [dedicated cancellation website](https://docs.g
 
 Upon form submission, we will contact you within 24 hours via email or X (Formly Twitter)’s Direct Message.
 
----
+***
 
 ## About STNET Radio Plus+
 
