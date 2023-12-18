@@ -8,7 +8,7 @@
 * [🖐 How to unsubscribe from Plus+](plus/unsubscribe.md)
 * [✨ STNET Radio Plus+ Subscription Refund Request in Thailand](plus/refund.md)
 
-## Account Archived <a href="#archived" id="archived"></a>
+## Account Archived <a href="#archive" id="archive"></a>
 
 * [❓ What is Account Archived](/archive/about.md)
 * [🔒 Account Archived on X](/archive/x.md)
