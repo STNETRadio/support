@@ -13,5 +13,5 @@
 
 ## Account Archived <a href="#archive" id="archive"></a>
 
-* [❓ What is Account Archived](/archive/about.md)
+* [❓What is Account Archived](/archive/about.md)
 * [🔒 Account Archived on X](/archive/x.md)
