@@ -29,13 +29,6 @@ Welcome to STNET Radio's help center! We're dedicated to addressing your inquiri
 If you can't find the information you need, please reach out to our support team at [support@stnetradio.co](mailto:support@stnetradio.co) or contact [Team STNET Radio on Twitter](https://twitter.com/teamstnetradio)!
 
 ***
-## Most visited
-
-### STNET Radio Plus+
-* [🛒 Sign up for STNET Radio Plus+](plus/signup.md)
-* [🖐️ How to unsubscribe from Plus+](plus/unsubscribe.md)
-* [✨ STNET Radio Plus+ Subscription Refund Request in Thailand](plus/refund.md)
-
 
 ### How to Listen to STNET Radio
 
