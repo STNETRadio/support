@@ -4,9 +4,9 @@ The archiving of Twitter accounts occurs when these accounts are inactive, yet s
 
 ## Accounts Scheduled for Reactivation in 2024
 * [@STNETRadioPod - STNET Radio Podcast](https://twitter.com/STNETRadioPod)
+* [@STNETRadioMusic - STNET Radio Music Label](https://twitter.com/STNETRadioMusic)
 
 ## Accounts Currently Archived
-* [@STNETRadioVideos - STNET Radio Videos](https://twitter.com/STNETRaadioVideod)
 * [@SNTNETRShop - STNET Radio Shop](https://twitter.com/STNETRShop)
 
 If you have any questions, please contact our customer service team, available 24/7.
