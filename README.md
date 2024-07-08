@@ -20,10 +20,6 @@ layout:
 
 # ❓ STNET Radio Help Center
 
-{% hint style="danger" %}
-Important Announcement Regarding “เล่าเรื่องเก่ง” Podcast We would like to express our gratitude for your continuous support of our program. Today, we have an important announcement to make regarding the future of “เล่าเรื่องเก่ง” podcast Learn more [here](https://x.com/STNETRadio/status/1762794658240037334)
-{% endhint %}
-
 Welcome to STNET Radio's help center! We're dedicated to addressing your inquiries and providing assistance.
 
 If you can't find the information you need, please reach out to our support team at [support@stnetradio.co](mailto:support@stnetradio.co) or contact [Team STNET Radio on Twitter](https://twitter.com/teamstnetradio)!
