@@ -20,6 +20,10 @@ layout:
 
 # ❓ STNET Radio Help Center
 
+{% hint style="danger" %}
+STNET Radio's website and email domain changes are effective from July 15, 2024 onwards. Read more [here](announce/Jul1524.md)
+{% endhint %}
+
 Welcome to STNET Radio's help center! We're dedicated to addressing your inquiries and providing assistance.
 
 If you can't find the information you need, please reach out to our support team at [support@stnetradio.co](mailto:support@stnetradio.co) or contact [Team STNET Radio on Twitter](https://twitter.com/teamstnetradio)!
