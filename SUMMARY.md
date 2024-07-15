@@ -17,3 +17,7 @@
 
 * [❓ What is Account Archived](archive/about.md)
 * [🔒 Account Archived on X](archive/x.md)
+
+## Announcemet History <a href="#announce" id="announce"></a>
+
+* [Notice of Domain and Email Address Change for STNET Radio](announce/July1524)
