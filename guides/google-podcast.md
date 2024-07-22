@@ -1,4 +1,4 @@
-# 🎧 On Google Podcast
+# Listening STNET Radio on Google Podcast
 
 To listen to STNET Radio on Google Podcast, follow these steps:
 

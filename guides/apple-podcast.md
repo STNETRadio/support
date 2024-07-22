@@ -1,4 +1,4 @@
-# 🎧 On Apple Podcast
+# Listening STNET Radio on Apple Podcast
 
 Follow these steps to use STNET Radio on Apple Podcast:
 

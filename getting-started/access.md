@@ -1,4 +1,4 @@
-# 📌 Start listening podcast on STNET Radio's Website
+# Accessing STNET Radio
 
 {% hint style="danger" %}
 STNET Radio's website new version will coming with STNET Radio Plus+

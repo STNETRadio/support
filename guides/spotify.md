@@ -1,4 +1,4 @@
-# 🎧 On Spotify
+# Listening STNET Radio on Spotify
 
 Here’s how to use STNET Radio on Spotify:
 

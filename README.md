@@ -29,9 +29,9 @@ Welcome to the STNET Radio Help Center! We're here to assist you with any questi
 ## Getting Started
 
 - [Accessing STNET Radio](getting-started/access.md)
-- [Using STNET Radio on Apple Podcast](guides/apple-podcast.md)
-- [Using STNET Radio on Google Podcast](guides/google-podcast.md)
-- [Using STNET Radio on Spotify](guides/spotify.md)
+- [Listening STNET Radio on Apple Podcast](guides/apple-podcast.md)
+- [Listening STNET Radio on Google Podcast](guides/google-podcast.md)
+- [Listening STNET Radio on Spotify](guides/spotify.md)
 
 ## Frequently Asked Questions (FAQ)
 
