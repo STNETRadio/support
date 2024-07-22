@@ -23,4 +23,4 @@ To proceed with unsubscribing from STNET Radio Plus+, please provide the followi
 
 ## How to Unsubscribe from STNET Radio Plus+:
 
-You can read more details at [**✨ STNET Radio Plus + Subscription Refund Request in Thailand**](th-refund.md) section
+You can read more details at [**✨ STNET Radio Plus + Subscription Refund Request in Thailand**](refund.md) section
