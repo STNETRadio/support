@@ -1,4 +1,4 @@
-# What is Account Archived
+# ❓ What is Account Archived
 
 Account Archived is the process where online accounts that are no longer in use are retained for data deletion or for future use. This process can be categorized into several types:
 
