@@ -1,6 +1,12 @@
 # Table of contents
 
 * [❓ STNET Radio Help Center](README.md)
+* [Start listening podcast on STNET Radio's Website](getting-started/access.md)
+
+## How to listen STNET Radio Podcast <a href="#listen" id="listen"></a>
+* [On Apple Podcast](Guides/Apple-Podcast.md)
+* [On Google Podcast](Guides/googlexpodcast.md)
+* [On Spotify](Guides/Spotify.md)
 
 ## Start with Plus+ <a href="#plus" id="plus"></a>
 
