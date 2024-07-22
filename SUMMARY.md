@@ -13,7 +13,7 @@
 
 * [🛒 Sign up for STNET Radio Plus+](plus/signup.md)
 * [🖐️ How to unsubscribe from Plus+](plus/unsubscribe/README.md)
-  * [✨ STNET Radio Plus+ Subscription Refund Request in Thailand](plus/unsubscribe/stnet-radio-plus+-subscription-refund-request-in-thailand.md)
+  * [✨ STNET Radio Plus+ Subscription Refund Request in Thailand](plus/unsubscribe/refund.md)
 * [✔️ Availability Country](plus/available-list.md)
 
 ## RE:WRITE <a href="#rewrite" id="rewrite"></a>
