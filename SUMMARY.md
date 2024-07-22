@@ -4,9 +4,9 @@
 * [Start listening podcast on STNET Radio's Website](getting-started/access.md)
 
 ## How to listen STNET Radio Podcast <a href="#listen" id="listen"></a>
-* [On Apple Podcast](Guides/Apple-Podcast.md)
-* [On Google Podcast](Guides/googlexpodcast.md)
-* [On Spotify](Guides/Spotify.md)
+* [On Apple Podcast](guides/apple-podcast.md)
+* [On Google Podcast](guides/google-podcast.md)
+* [On Spotify](guides/spotify.md)
 
 ## Start with Plus+ <a href="#plus" id="plus"></a>
 
