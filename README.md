@@ -21,7 +21,7 @@ layout:
 # ❓ STNET Radio Help Center
 
 {% hint style="danger" %}
-STNET Radio's website and email domain changes are effective from July 15, 2024. Read more [here](announce/Jul1524.md).
+Important Announcement: Website and Service Transition for STNET Radio. Effective from November 26, 2024. Read more [here](announce/nov2624.md).
 {% endhint %}
 
 Welcome to the STNET Radio Help Center! We're here to assist you with any questions or issues you may have.
