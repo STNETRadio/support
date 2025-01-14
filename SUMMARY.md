@@ -32,5 +32,6 @@
 
 ## Announcemet History <a href="#announce" id="announce"></a>
 
+* [Introducing STNET Radio RSS](announce/Jan2125.md)
 * [Important Announcement: Website and Service Transition for STNET Radio](announce/nov2624.md)
 * [Notice of Domain and Email Address Change for STNET Radio](announce/Jul1524.md)
