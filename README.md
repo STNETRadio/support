@@ -21,7 +21,7 @@ layout:
 # ❓ STNET Radio Help Center
 
 {% hint style="danger" %}
-Important Announcement: Website and Service Transition for STNET Radio. Effective from November 26, 2024. Read more [here](announce/nov2624.md).
+Important Announcement: Website and Service Transition for STNET Radio. Effective from November 26, 2024. Read more [here](http://l.stnetradio.com/4ABL).
 {% endhint %}
 
 Welcome to the STNET Radio Help Center! We're here to assist you with any questions or issues you may have.
