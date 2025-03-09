@@ -36,14 +36,14 @@ Welcome to the STNET Radio Help Center! We're here to assist you with any questi
 ## Frequently Asked Questions (FAQ)
 
 - [Plus+ Subscription Plans](plus/available-list.md)
-- [Technical Issues](https://docs.stnetradio.co)
+- [Technical Issues](https://docs.stnetradio.com)
 - [RE:WRITE's Refund Issues](rewrite/refund.md)
 
 ## Contact Us
 
 If you need further assistance, please reach out to our support team:
 
-- **Email**: [support@stnetradio.co](mailto:support@stnetradio.co)
+- **Email**: [support@stnetradio.com](mailto:support@stnetradio.com)
 - **Twitter**: [Team STNET Radio](https://twitter.com/teamstnetradio)
 
 Thank you for supporting STNET Radio!
