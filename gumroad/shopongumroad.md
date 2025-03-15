@@ -4,7 +4,7 @@ Gumroad is a platform that facilitates the sale of various products and services
 
 ## Steps to Purchase Products and Services
 
-1. Visit our temporary website at [gumroad.stnetradio.co](https://gumroad.stnetradio.co) or the official Gumroad website at [stnetradio.gumroad.com](https://stnetradio.gumroad.com).
+1. Visit our temporary website at [gumroad.stnetradio.com](https://gumroad.stnetradio.com) or the official Gumroad website at [stnetradio.gumroad.com](https://stnetradio.gumroad.com).
 2. Select the product or service you wish to purchase.
 3. Choose the version or type of product/service (if applicable).
 4. For some products, you can adjust the price above the base price.
@@ -18,11 +18,11 @@ Gumroad is a platform that facilitates the sale of various products and services
 9. If you are a PLUS+ member, you can redeem your PLUS+ Member Points.
 10. Complete the purchase process.
 
-Once the transaction is complete, you will receive details of the product or service you purchased via the email you provided. If you need to request a refund, you can review the refund policy [here](/gumroad/refund.md). If you have any questions or issues, feel free to contact us anytime at [support@stnetradio.co](mailto:support@stnetradio.co).
+Once the transaction is complete, you will receive details of the product or service you purchased via the email you provided. If you need to request a refund, you can review the refund policy [here](/gumroad/refund.md). If you have any questions or issues, feel free to contact us anytime at [support@stnetradio.com](mailto:support@stnetradio.com).
 
 ## Official Websites for Purchasing Our Products and Services
 
 Below are the official websites where you can purchase products and services from us:
 
-* [gumroad.stnetradio.co](https://gumroad.stnetradio.co)
-* [sorasukt.stnetradio.co](https://sorasukt.stnetradio.co)
+* [gumroad.stnetradio.com](https://gumroad.stnetradio.com)
+* [sorasukt.stnetradio.com](https://sorasukt.stnetradio.com)

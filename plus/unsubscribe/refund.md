@@ -13,11 +13,11 @@ We would like to inform you that, effective September 20, 2023, following the an
 
 > If your subscription continues beyond September 20, 2023, a refund of 35.09 baht will be processed, averaging 3.19 baht per day.
 
-To conveniently check your refund status, please visit [th.stnetradio.co/refund](https://th.stnetradio.co/refund). It's important to note that access to edit or review refund details will be unavailable after November 2, 2023. For further details, refer to [this link](https://stnetradio.medium.com/the-1st-announcement-of-plus-2c0245235ed5).
+To conveniently check your refund status, please visit [th.stnetradio.co/refund](https://th.stnetradio.com/refund). It's important to note that access to edit or review refund details will be unavailable after November 2, 2023. For further details, refer to [this link](https://stnetradio.medium.com/the-1st-announcement-of-plus-2c0245235ed5).
 
 ## How to Request a Refund
 
-1. **Log In:** Access our account management system at [accounts.stnetradio.co](https://accounts.stnetradio.co/p/login/fZebKe83RcyF3de7ss).
+1. **Log In:** Access our account management system at [accounts.stnetradio.com](https://accounts.stnetradio.com/p/login/fZebKe83RcyF3de7ss).
 2. **Email Verification:** Provide your email and enter the verification code sent to your email.
 3. **Cancellation Process:**
    * Upon successful login, choose "Cancel Plan."

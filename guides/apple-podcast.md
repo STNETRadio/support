@@ -11,4 +11,4 @@ Follow these steps to use STNET Radio on Apple Podcast:
 
 For more help, visit the [Apple Podcast Support](https://support.apple.com/apple-podcasts).
 
-Still have questions? Email us at [support@stnetradio.co](mailto:support@stnetradio.co).
+Still have questions? Email us at [support@stnetradio.com](mailto:support@stnetradio.com).

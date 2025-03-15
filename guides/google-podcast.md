@@ -18,4 +18,4 @@ To listen to STNET Radio on Google Podcast, follow these steps:
 
 For more detailed instructions, check out the [Google Podcast Help Center](https://support.google.com/podcast).
 
-Need assistance? Contact us at [support@stnetradio.co](mailto:support@stnetradio.co).
+Need assistance? Contact us at [support@stnetradio.com](mailto:support@stnetradio.com).

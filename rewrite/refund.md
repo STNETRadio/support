@@ -13,6 +13,6 @@ We sincerely apologize if you are dissatisfied or wish to request a refund for p
 
 If you made a purchase through other channels or stores not mentioned in this article, please contact the customer service of that service provider for additional information.
 
-We appreciate your trust and choosing our services. If you have further questions or need additional assistance, please contact our team at [support@stnetradio.co](mailto:support@stnetradio.co).
+We appreciate your trust and choosing our services. If you have further questions or need additional assistance, please contact our team at [support@stnetradio.com](mailto:support@stnetradio.com).
 
 Thank you for your understanding and cooperation.

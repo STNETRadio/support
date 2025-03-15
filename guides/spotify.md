@@ -11,4 +11,4 @@ Here’s how to use STNET Radio on Spotify:
 
 For more help, refer to the [Spotify Support](https://support.spotify.com/).
 
-Still have questions? Email us at [support@stnetradio.co](mailto:support@stnetradio.co).
+Still have questions? Email us at [support@stnetradio.com](mailto:support@stnetradio.com).

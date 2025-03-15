@@ -26,7 +26,7 @@ To register for STNET Radio Plus+, kindly provide the following details:
 On September 20, 2023, STNET Radio announced the closure of the trial for its STNET Radio Plus+ service in Thailand, effective October 1, 2023, at 0:01 AM (Thailand local time). This decision follows careful consideration and is based on user feedback during the trial period.
 {% endhint %}
 
-1. Visit our [Plus+ website](https://stnetradio.co/plus).
+1. Visit our [Plus+ website](https://stnetradio.com/plus).
 2. Click on **START PLUS+**.
 3. Complete your personal information and credit/debit card details.
 4. Select **Start Trial**.
@@ -44,4 +44,4 @@ On September 20, 2023, STNET Radio announced the closure of the trial for its ST
 
 STNET Radio Plus+ is a novel service bringing you closer to creators. Enjoy special privileges like direct communication with creators, exclusive videos, and unique gifts. Currently in trial in Thailand, the service aims to open globally by 2025.
 
-For assistance or queries, reach us at [plus@stnetradio.co](mailto:plus@stnetradio.co) 24/7.
+For assistance or queries, reach us at [plus@stnetradio.com](mailto:plus@stnetradio.com) 24/7.
